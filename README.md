@@ -1,1 +1,1 @@
-# Pok-mWize
+# Poké-Wize
