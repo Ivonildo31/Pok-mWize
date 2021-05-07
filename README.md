@@ -4,6 +4,16 @@ A new Flutter project.
 
 ## Getting Started
 
+to emulate in the browser use " flutter run -d chrome ".
+
+The objective is to put into practice knowledge related to flutter.
+
+
+
+
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
