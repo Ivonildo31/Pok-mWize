@@ -16,6 +16,7 @@ class App extends StatelessWidget {
           accentColor: Colors.orange,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
+        debugShowCheckedModeBanner: false,
         home: LoginPage());
   }
 }
